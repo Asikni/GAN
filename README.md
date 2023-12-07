@@ -28,3 +28,8 @@ Overall, the implementation of DCGAN for portrait generation showed progress in 
 Generated examples
 
 ![Screenshot (1324)](https://github.com/Asikni/GAN/assets/101385390/6a4fbb74-261c-4930-9935-12c03983a965)
+
+
+
+Collab Notebook for the same:
+https://drive.google.com/file/d/19RE5GSr1m9T4FRKMmwVvW-DSPR7QhURm/view?usp=sharing
