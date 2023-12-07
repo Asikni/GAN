@@ -1,4 +1,4 @@
-![Screenshot (1324)](https://github.com/Asikni/GAN/assets/101385390/25414ef8-bdd6-4484-823d-a234250daf49)
+
 **Title: Exploring DCGAN for Portrait Image Generation**
 
 **Introduction**
