@@ -1,7 +1,8 @@
-
+![Screenshot (1324)](https://github.com/Asikni/GAN/assets/101385390/25414ef8-bdd6-4484-823d-a234250daf49)
 **Title: Exploring DCGAN for Portrait Image Generation**
 
 **Introduction**
+
 Generative models, especially DCGAN (Deep Convolutional Generative Adversarial Network), have shown promise in creating realistic images. This report discusses the choice of DCGAN for generating portrait images, the training process employed, and an assessment of the output quality.
 
 **Choice of Generative Model: DCGAN**
@@ -23,3 +24,7 @@ The application of DCGAN for portrait image generation demonstrated an understan
 DCGAN, while a powerful architecture for image generation, presented limitations in producing high-quality portrait images. The complexity of facial features, fine details, and the need for high-resolution representations posed challenges. Further research could include expanding the dataset, experimenting with higher resolution models, or investigating alternative architectures to improve the quality of generated portraits.
 
 Overall, the implementation of DCGAN for portrait generation showed progress in image synthesis but underscored the complexities in achieving high-quality and realistic outputs.
+
+Generated examples
+
+![Screenshot (1324)](https://github.com/Asikni/GAN/assets/101385390/6a4fbb74-261c-4930-9935-12c03983a965)
